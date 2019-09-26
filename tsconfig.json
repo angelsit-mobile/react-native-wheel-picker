@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "sourceMap": true,
+        "strict": true,
+        "strictFunctionTypes": false,
+        "noUnusedLocals": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "preserveConstEnums": true,
+        "experimentalDecorators": true,
+        "resolveJsonModule": true,
+        "emitDecoratorMetadata": true,
+        "importHelpers": true,
+        "outDir": "./tmp/ts/",
+        "target": "es5",
+        "lib": ["dom", "es2015", "es2016", "es2017"],
+        "jsx": "react-native"
+    },
+    "exclude": ["node_modules/*", "src/assets"]
+}
