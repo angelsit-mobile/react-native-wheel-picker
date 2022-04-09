@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/angelsit-mobile/react-native-wheel-picker#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "peerDependencies": {
     "moment": ">=2.0.0",
